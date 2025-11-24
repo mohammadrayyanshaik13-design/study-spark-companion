@@ -1,4 +1,4 @@
-# Study Spark AI — Free AI Study Companion
+# Study Spark Companion — Free AI Study App
 
 **What it is:** A free, AI-powered study & workflow companion built on Base44. It helps you organize tasks, track progress, and accelerate learning.
 
@@ -9,4 +9,4 @@
 - Smart study workflows and task management
 - Fast, browser-ready experience (no install)
 
-**Keywords:** Study Spark AI, free study app, AI study companion, Base44 app, productivity, workflow, task manager
+**Keywords:** Study Spark Companion, free study app, AI study companion, Base44 app, productivity, workflow, task manager
